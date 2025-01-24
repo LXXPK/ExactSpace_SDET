@@ -1,0 +1,4 @@
+Total status code count: 77
+2XX status code count: 77
+4XX status code count: 0
+5XX status code count: 0
