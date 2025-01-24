@@ -1,0 +1,6 @@
+selenium
+streamlit
+matplotlib
+numpy
+browsermob-proxy
+requests

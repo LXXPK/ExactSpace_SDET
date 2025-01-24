@@ -35,6 +35,8 @@ This repository contains the complete implementation for an SDET internship asse
 3. **Additional Requirements**:
     - Install `Google Chrome` and the `ChromeDriver` binary. Ensure the `chromedriver` version matches your installed Chrome version.
     - [Download ChromeDriver here](https://chromedriver.chromium.org/downloads).
+    - Download and set up browsermob-proxy 
+    - [Download browsermob-proxy here](https://github.com/lightbody/browsermob-proxy/releases)
 
 ## Usage
 
