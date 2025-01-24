@@ -41,3 +41,4 @@ try:
 finally:
     driver.quit()
     server.stop()
+    print("Har file generated successfully")

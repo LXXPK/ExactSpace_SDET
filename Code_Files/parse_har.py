@@ -34,7 +34,7 @@ def save_output(total, status_2xx, status_4xx, status_5xx):
         output_file.write(f"5XX status code count: {status_5xx}\n")
 
 
-har_file_path = "output.har"
+har_file_path = r"C:\Users\reddy\Desktop\SDET_assignment\Kiran_BodiReddy_SDET\Generated_har.har"
 
 
 total, status_2xx, status_4xx, status_5xx = parse_har_file(har_file_path)
