@@ -63,9 +63,11 @@ This repository contains the complete implementation for an SDET internship asse
     This will launch an interactive web application in your default web browser.
 
 2. Features available via the dashboard:
+      ![Interface](https://github.com/LXXPK/ExactSpace_SDET/blob/main/Initial_Page.png?raw=true)
     - Generate a new `.har` file by specifying the target URL.
     - Upload an existing `.har` file and analyze its status codes.
     - Download the generated `.har` file and view the parsed results directly.
+    ![Output](https://github.com/LXXPK/ExactSpace_SDET/blob/main/Output.png?raw=true)
 
 ## Example Outputs
 
