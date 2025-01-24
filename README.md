@@ -54,6 +54,8 @@ This repository contains the complete implementation for an SDET internship asse
     ```
     Follow the on-screen instructions to specify the path to the `.har` file and view the output.
 
+   ![Standalone](https://github.com/LXXPK/ExactSpace_SDET/blob/main/Standalone.png?raw=true)
+
 ### Option 2: Streamlit Dashboard
 
 1. Run the dashboard:
